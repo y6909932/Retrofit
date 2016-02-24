@@ -1,8 +1,6 @@
 package retrofit.aixuran.com.retrofit;
 
-/**
- * Created by haihong on 2016/1/19.
- */
+
 public class WeatherJson {
 
     /**
