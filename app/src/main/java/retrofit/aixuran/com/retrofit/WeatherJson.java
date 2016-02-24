@@ -1,6 +1,6 @@
 package retrofit.aixuran.com.retrofit;
 
-
+/**红心A*/
 public class WeatherJson {
 
     /**
